@@ -1,0 +1,446 @@
+.van{
+    justify-content: space-between;
+    display: flex;
+    height: 30px;
+    padding-left: 270px;
+    padding-right: 270px;
+}
+
+.logo-docplanner{
+    height: 50px;
+    width: 270px;
+}
+
+.bar{
+    height: 50px;
+    width: 230px;
+    padding-left: 20px;
+    font-family: Roboto, Arial, sans-serif;
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+}
+
+.contain{
+    text-align: center;
+    padding-top: 70px;
+    display: flex;
+    display: block;
+}
+
+font{
+    font-family: Roboto, Arial, sans-serif;
+    height: 70px;
+    font-size:34px;
+    color: RGB(0, 179, 155);
+    font-family:"Work sans", Arial, sans-serif;
+}
+
+.first{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 40px;
+}
+
+p{
+    font-family: Roboto, arial, sans-serif;
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+}
+
+.mp{
+    margin-right: 250px;
+    margin-left: 20px;
+    line-height: 28px;
+}
+
+.pm{
+    margin-left: 250px;
+    margin-right: 20px;
+    line-height: 28px;
+}
+
+
+.mermoz{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px; 
+}
+
+.troisunG{
+   width: 500px;
+   margin-left: 230px;
+}
+
+.troisunB{
+    width: 500px;
+ }
+
+ .troisunBl{
+    width: 500px;
+    margin-right: 230px;   
+ }
+
+ .mag{
+    margin-top: 16px;
+ }
+
+ .tour{
+    margin-left: 16px;
+    margin-right: 16px;  
+ }
+
+.ort{
+    font-family: "Work sans", Arial, sans-serif;
+    font-size: 24px;
+    color: RGB(255, 255, 255);
+    font-weight: normal;
+}
+
+.otr{
+    font-family: "Work sans", Arial, sans-serif;
+    font-size: 24px;
+    color: RGB(255, 255, 255);
+}
+
+.green{
+    background-color: RGB(0, 204, 177);
+    font-family: Roboto, Arial, sans-serif;
+    border-radius: 3%;
+    margin-left: 30px;
+    margin-right: 10px;
+    height: 350px;
+}
+
+.blue{
+    background-color: RGB(61, 131, 223);
+    font-family: Roboto, Arial, sans-serif;
+    border-radius: 3%;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 350px;
+}
+
+.black{
+    background-color: RGB(27, 39, 52);
+    font-family: Roboto, Arial, sans-serif;
+    border-radius: 3%;
+    margin-right: 30px;
+    margin-left: 10px;
+    height: 350px;
+}
+
+.selec{
+    background-color: RGBA(0, 0, 0, 0);
+    font-family: Roboto, Arial, sans-serif;
+    color: RGB(255, 255, 255);
+    font-size: 19px;
+    border: 0px;
+}
+
+.ssc{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 250px;
+    margin-right: 240px;
+    margin-bottom: 80px;
+}
+
+.sc{
+    color: RGB(0, 179, 155);
+    font-size: 26px;
+    font-family: "Work sans", Arial, sans-serif;
+    width: 600px;
+    font-weight: normal;
+}
+
+li{
+    display: inline;
+    height: 200px;
+    width: 230px;
+    padding-left: 10px;
+    padding-bottom: 30px;    
+}
+
+.log{
+    align-content: flex-start;
+}
+
+.jam{
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+    width: 3px;
+    height: 3px;
+    padding-right: 30px;
+}
+
+.tuo{
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+    width: 3px;
+    height: 3px;
+}
+
+.gip{
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+    width: 3px;
+    height:3px;
+    padding-right: 10px;
+}
+
+.clin{
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+    width: 3px;
+    height: 3px;
+}
+
+.feeg{
+    color: RGB(116, 116, 116);
+    font-size: 16px;
+    width: 3px;
+    height: 3px;
+}
+
+.saske{
+    display: flex;
+    background-color: RGB(229, 250, 248)
+}
+
+.nart{
+    display: flex;
+    align-items: baseline;
+    margin-top: 50px;
+    justify-content: space-between;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    margin-left: 280px;
+    margin-right: 200px;
+    margin-bottom: 50px;  
+}
+
+.quar{
+    background-color: RGB(255, 255, 255);
+    height: 280px;
+    width: 220px;
+    text-align: center;
+    border-radius: 3px;
+    margin-right: 5px;
+    padding-top: 10px;
+}
+
+.quart{
+    background-color: RGB(255, 255, 255);
+    height: 280px;
+    width: 220px;
+    text-align: center;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-top: 1px;
+    padding-top: 20px;
+}
+
+.quartz{
+    background-color: RGB(255, 255, 255);
+    height: 280px;
+    width: 220px;
+    text-align: center;
+    border-radius: 3px;
+    padding-top: 10px;
+}
+
+.quarts{
+    background-color: RGB(255, 255, 255);
+    height: 280px;
+    width: 220px;
+    text-align: center;
+    border-radius: 3px;
+    margin-top: 30px;
+    padding-top: 5px;
+}
+
+h3{
+    font-family: "Work sans", Arial, sans-serif;
+    color: RGB(0, 179, 155);
+    height: 40px;
+    font-size: 28px;
+    padding-bottom: 20px;
+    font-weight: normal;
+}
+
+.mbac{
+    padding-top: 40px;
+}
+
+.arl{
+    font-size: 13px;
+    font-family: Robot, Arial, sans-serif;
+}
+
+
+.daeh{
+    display: block;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+
+.yuh{
+    color: RGB(0, 179, 155);
+    font-size: 28px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight: normal;
+}
+
+.bacsan{
+    display: flex;
+    margin-top: 100px;
+    flex-wrap: wrap;
+    margin-left: 190px;
+    margin-right: 300px;
+}
+
+.indv{
+    width: 60px;
+    height: 50px;
+    margin-right: 170px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 250px;
+    background-color: whitesmoke;
+}
+
+span{
+    background-color: RGB(22, 98, 198);
+    font-size: 2px;
+    color: RGB(255, 255, 255);
+    font-family: Roboto, Arial, sans-serif;
+    height: 20px;
+    width: 160px;
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 8px;
+    font-weight: bold;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+
+.divn{
+    color: RGB(116, 116, 116);
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top: 28px;
+    margin-left: 20px;
+    
+    
+    
+}
+
+.nahr{
+    display: flex;
+    background-color:whitesmoke;
+    width: 300px;
+    height: 75px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -7px; 
+}
+
+.divt{
+    color: RGB(116, 116, 116);
+    font-size: 17px;
+    margin-top: 28px;
+    font-weight: bolder;
+    font-weight: normal;
+    
+}
+
+.sho{
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-right: 200px;
+    color: RGB(0, 179, 155);
+    text-align: center;
+    font-weight: normal;
+}
+
+.fnt{
+    color: RGB(116, 116, 116);
+    font-size: 14px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-left: 320px;
+    margin-right: 250px;
+    text-align: center;
+    line-height: 24px;
+}
+
+.der{
+    margin-top: 400px;
+    text-align: center;
+}
+
+.kik{
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+}
+
+footer{
+    margin-top: 70px;
+    border-top: 1px solid whitesmoke;
+    text-align: center;
+    
+    
+}
+
+.mod{
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.pom{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
